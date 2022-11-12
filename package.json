@@ -1,0 +1,25 @@
+{
+  "name": "vercel-real-world-api",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "platform": "node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "CoolLaboratory",
+    "email": "cool.lab.gr@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/edge": "^0.1.1",
+    "@vercel/node": "^2.6.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.11.0"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^8.5.9"
+  }
+}

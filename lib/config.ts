@@ -1,0 +1,1 @@
+export const JWT_SECRET = process.env.JWT_SECRET || 'sdhF8h3bvllBVsr8dvw'
